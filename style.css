@@ -1,0 +1,53 @@
+body{
+    font-family: Poppins;
+}
+.fpart{
+    margin-top: 150px;
+}
+.see{
+    color: #FF9D00;
+    text-decoration: none;  
+}
+.first-sec{
+    margin-bottom: 150px;
+}
+.phoneimg{
+    width: 75%;
+    margin: 0 auto;
+    
+}
+.card-title{
+    text-align: center;
+}
+.card-footer{
+    border-top: none;
+    margin-top: 30px;
+}
+.price{
+    text-align: center;
+}
+.card-btn{
+    margin: 0 auto;
+}
+.titel-tag{
+    margin-bottom: 50px;
+}
+.card-text{
+    margin: 30px 0 20px 0;
+}
+.card{
+    border: none;
+}
+.secondsec{ 
+    margin-bottom: 150px;
+}
+.lap-sec{
+    margin-bottom: 150px;
+}
+.cat-heading{
+    text-align: center;
+}
+.line{
+    margin: 0 auto;
+    margin-bottom: 70px;
+}
